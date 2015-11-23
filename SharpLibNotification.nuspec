@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>SharpLibNotification</id>
+        <version>0.0.1</version>
+        <title>C# Notification Library</title>
+        <authors>Stéphane Lenclud</authors>
+        <owners>Stéphane Lenclud</owners>
+        <licenseUrl>https://www.mozilla.org/en-US/MPL/2.0/</licenseUrl>
+        <projectUrl>https://sharplibnotification.codeplex.com/</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>C# Notification Library.</description>
+        <releaseNotes>v0.0.1
+First published version.</releaseNotes>
+        <copyright>Stéphane Lenclud</copyright>
+        <language />
+        <tags>Notification Status Area System Tray</tags>
+    </metadata>
+    <files>
+        <file src="bin\Release\SharpLibNotification.dll" target="lib\net40\SharpLibNotification.dll" />
+    </files>
+</package>
